@@ -1,1 +1,27 @@
+GITHUB LINK: https://github.com/Themba-Kyle/IMAD5112-Assignment1/edit/main/README  
+
+YOUTUBE LINK: https://youtu.be/cQirTTRwpTU?si=inlIwpakSe8clGGt 
+
+ST10495105 Themba Phiri 
+IMAD README FILE 
+ 
+
+MY diet monitor application that suggests meals based on time of the day 
+ 
+
+Run the application on an emulator in android studio 
+ 
+
+HOW TO USE 
+Users should type morning, afternoon or evening on Time Of Day and click the submit button for a result 
+The application then suggests meals based on the time input 
+If any other time input is typed the application will read it as an invalid input 
+You can reset the time of day by clicking the reset button  
+
+ 
+Example 
+When one types “morning” and clicks the submit button, the app will show Breakfast: Toast , Eggs 
+When one types “afternoon” and clicks the submit button the app will show Lunch: Salmon Salad 
+When one types “evening” and clicks the submit button the app will show Dinner: Rice and Chicken 
+When one types anything besides the listed the application will show an error 
 
